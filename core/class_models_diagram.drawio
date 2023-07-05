@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="8jf6YwBp2OuPZwC2Zkz9" name="Page-1">
+        <mxGraphModel dx="1028" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#0000CC" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Book&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;authors&lt;br&gt;translators&lt;br&gt;publisher&lt;br&gt;category&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;name&lt;br&gt;summary&lt;br&gt;isbn&lt;br&gt;subject&lt;br&gt;satisfaction_rate [0-5]&lt;br&gt;front_photo&lt;br&gt;back_photo&lt;br&gt;age_category&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="223" y="29" width="160" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Author&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;‌‌books&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;name&lt;br&gt;email_contact&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="49" y="28" width="160" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Publisher&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;books&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;name&lt;br&gt;website&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="49" y="336" width="160" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Category&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;books&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;name&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="223" y="463" width="160" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="فقط کاربرانی که کتاب را به امانت گرفته اند ، حق نوشتن کامنت و زدن ریت برای آن را دارند آن هم فقط در زمان پس آوردن کتاب&lt;br&gt;--------------------------&lt;br&gt;یییی" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="10" width="190" height="288" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;comment&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;profile&lt;br&gt;book&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;context&lt;br&gt;satisfaction_rate [0-5]&lt;br&gt;date&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="223" y="306" width="160" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;profile&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;user&lt;br&gt;comments&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;national_code&lt;br&gt;email&lt;br&gt;mobile&lt;br&gt;date_birth&lt;br&gt;postal_code&lt;br&gt;address&lt;br&gt;registration_date&lt;br&gt;access_level&lt;br&gt;(usual-operator-admin)&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="408" y="22" width="160" height="276" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;user&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;profile&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;username&lt;br&gt;password&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="637" y="347" width="160" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Translator&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;‌‌books&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;name&lt;br&gt;email_contact&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="49" y="182" width="160" height="140" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
